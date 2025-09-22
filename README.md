@@ -58,4 +58,4 @@ To use the Weather App, simply enter the name of the city in the search bar and 
 ### Contact
 <br>[Name: Poorvansh Tonk]</br>
 <br>[Contact Number: 8439194309]</br>
-<br>[Mail](poorvansh.t25661@nst.rishihood.edu.in)</br>
+<br>[Mail To: poorvansh.t25661@nst.rishihood.edu.in]</br>
