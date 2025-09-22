@@ -55,6 +55,6 @@ let apiKey = "Your API Key";
 To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
 
 ### Contact
-[Name: Poorvansh Tonk]
-[Mail to: poorvansh.t25661@nst.rishihood.edu.in]
-[Contact Number: 8439194309]
+<br>[Name: Poorvansh Tonk]</br>
+<br>[Mail to: poorvansh.t25661@nst.rishihood.edu.in]</br>
+<br>[Contact Number: 8439194309]</br>
