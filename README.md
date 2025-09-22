@@ -28,7 +28,7 @@ https://openweathermap.org/current
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
-- Run index.html file using live server.
+- Run index.html file in your browser.
 
 ### Prerequisites
 
@@ -57,5 +57,5 @@ To use the Weather App, simply enter the name of the city in the search bar and 
 
 ### Contact
 <br>[Name: Poorvansh Tonk]</br>
-<br>[Mail to](poorvansh.t25661@nst.rishihood.edu.in)</br>
 <br>[Contact Number: 8439194309]</br>
+<br>[Mail](poorvansh.t25661@nst.rishihood.edu.in)</br>
